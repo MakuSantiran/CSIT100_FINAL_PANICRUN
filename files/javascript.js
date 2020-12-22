@@ -192,7 +192,7 @@ var test = [
 	["PCI 64 bits have a bus speed of 33 MHz and operate at?",
 	"264mbps" , // answer
 	"PCIBusTypes"], // group
-	["PCI 64 bits have a bus speed of 66 MHz and operate at",
+	["PCI 32 bits have a bus speed of 66 MHz and operate at",
 	"512 mbps" , // answer
 	"PCIBusTypes"], // group
 	["PCI 64 bits have a bus speed of 66 MHz and operate at",
